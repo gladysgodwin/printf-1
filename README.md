@@ -3,7 +3,7 @@ A group project on implementation and recreation of the C standard library funct
 
 ## Authors
 * Wasiu Sanusi <[The-Vast](https://github.com/The-Vast)>
-* Gladys Oviawe
+* Gladys Oviawe <[gladys](https://github.com/gladysgodwin)>
 
 ## Description
 printf or print function in C takes a formatting string and couple of optional variables as input and outputs strings to console while converting input variables to strings.
