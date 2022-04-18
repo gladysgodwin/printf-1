@@ -2,7 +2,7 @@
 A group project on implementation and recreation of the C standard library function, printf.
 
 ## Authors
-* Wasiu Sanusi <[The-Vast] (https://github.com/The-Vast)>
+* Wasiu Sanusi <[The-Vast](https://github.com/The-Vast)>
 * Gladys Oviawe
 
 ## Description
